@@ -1,13 +1,13 @@
 //
-//  RSViewController.h
+//  Player Record.m
 //  RSPlayerRecord
 //
 //  Created by Ross Simmerman on 7/1/14.
 //  Copyright (c) 2014 RossSimmerman. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "Player Record.h"
 
-@interface RSViewController : UIViewController
+@implementation Player_Record
 
 @end
